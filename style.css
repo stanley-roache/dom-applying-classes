@@ -25,6 +25,10 @@ div.green {
   background-color: green;
 }
 
+div.gradient {
+  background: linear-gradient(red, yellow, black);
+}
+
 .invisible {
   display: none;
 }
